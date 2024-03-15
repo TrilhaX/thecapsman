@@ -1,5 +1,6 @@
 body {
     background-color: black;
+    zoom: 60%;
 }
 
 h1 {
@@ -18,35 +19,30 @@ h3 {
 
 #thecapsman {
     position: absolute;
-    top: 85%;
-    left: 10%;
+    top: 39%;
+    left: 15%;
 }
 
 #thecapsmanmaligno {
     position: absolute;
-    top: 85%;
-    left: 60%;
-}
-
-h2 {
-    position: absolute;
-    top: 75%;
-    left: 10%;
-    color: white;
+    top: 39%;
+    left: 65%;
 }
 
 #h2bem {
     position: absolute;
-    top: 75%;
-    left: 10%;
+    font-size: 20px;
+    top: 32%;
+    left: 15%;
     color: white;
     width: 30%;
 }
 
 #h2mal {
     position: absolute;
-    top: 75%;
-    left: 60%;
+    font-size: 20px;
+    top: 32%;
+    left: 65%;
     color: white;
     width: 30%;
 }
